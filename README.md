@@ -26,5 +26,7 @@ Este es mi primer repositorio en GitHub
   - Segundo elemento de la lista  
 
 [Universidad Externado de Colombia](https://www.uexternado.edu.co/)
+![image](https://github.com/user-attachments/assets/663366e6-67d9-4c3e-b1e0-4f8bc5787377)
+
 
 
