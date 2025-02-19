@@ -1,6 +1,6 @@
 # Analitica_de_negocio_
 
-Herramientas de análisis de los negocios como Power BI, R, SQL, Python
+Herramientas de análisis de los negocios como Python, Bash, SQL(Postgresql, Mysql)
 
 ## hola mundo 1
 
@@ -25,5 +25,6 @@ Este es mi primer repositorio en GitHub
   - Primer elemento de la lista  
   - Segundo elemento de la lista  
 
-[Universidad Externado de Colombia](#)
+[Universidad Externado de Colombia](https://www.uexternado.edu.co/)
+
 
